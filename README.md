@@ -49,7 +49,6 @@ matplotlib
 seaborn
 
 3. Open the Jupyter Notebook: 
-
 jupyter notebook House_Price_Prediction.ipynb
 
 4. Run all cells to reproduce results
