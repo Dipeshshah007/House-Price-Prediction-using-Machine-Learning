@@ -38,7 +38,7 @@ Jupyter Notebook / Google Colab
 
 ▶️ How to Run the Project
 
-1. Clone the repository
+1. Clone the repository: 
 git clone https://github.com/your-username/House_Price_Prediction.git
 
 2. Install required dependencies:
@@ -48,7 +48,7 @@ scikit-learn
 matplotlib
 seaborn
 
-3. Open the Jupyter Notebook:
+3. Open the Jupyter Notebook: 
 
 jupyter notebook House_Price_Prediction.ipynb
 
